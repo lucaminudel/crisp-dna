@@ -1,10 +1,10 @@
 defaults:
   -
     scope:
-      path: ""
+      path: "stripped-down-crisp-dna/"
     values:
       layout: "default"
 collections:
   docs:
     output: true
-company_name: "Crisp"
+company_name: "Stripped-Down Crisp"
