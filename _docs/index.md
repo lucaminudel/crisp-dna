@@ -13,7 +13,6 @@ This site is a stipped down version of the [open-source](http://en.wikipedia.org
 -   None of the 35+ consultants are actually employed by {{ site.company_name }} (although we do have a few employed office staff).
 -   We have no managers, not even a CEO. Instead we rely on self-organization and transparency. Almost everything is bottom-up, and [anyone can drive any decision](decisions.html).
 -   Crisp's main purpose is to enable consultants to be happy, and [Crisp Happiness Index](happiness-index.html) is our driving metric. Strong revenue and delighted customers are a side effect, not a goal.
--   Our [ownership model](ownership-model.html) is designed to keep our stock financially worthless. There is no incentive to "cash in".
 -   Consultants are 100% autonomous. They can do whatever they want (as long as they don't hurt the brand or [our house](what-is-crisp.html)), and work as much or as little as they want.
 
 We get a lot of questions about how this works in practice, especially from other consultants looking to create something similar. After many years of experimenting we've converged on a model that works well, basically the sweet spot between being an independent consultant and being an employee. So we decided to [open source](http://en.wikipedia.org/wiki/Open_source) it.
@@ -46,7 +45,6 @@ Core structure and practices
 (although these are core to our model, they are mostly just consequences of the principles above)
 
 -   [Happiness index](happiness-index.html) - how do we know if we are succeeding?
--   [Ownership model](ownership-model.html) - how do people become owners, and what ownership actually means?
 -   [How we make decisions](decisions.html) - how do decisions get made when there is no manager?
 -   [Recruiting](recruiting.html) - how do new people get in?
 -   [Communication](communication.html) - how do we collaborate, sync, and improve?

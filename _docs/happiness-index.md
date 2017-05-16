@@ -1,7 +1,7 @@
 ---
 title: Happiness Index
 prev_section: why-this-works.html
-next_section: ownership-model.html
+next_section: decisions.html
 ---
 
 Happiness Index
