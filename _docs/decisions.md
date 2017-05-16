@@ -1,6 +1,6 @@
 ---
 title: Decision making
-prev_section: economic-model.html
+prev_section: happiness-index.html
 next_section: recruiting.html
 ---
 

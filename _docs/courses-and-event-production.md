@@ -21,7 +21,6 @@ Driving principles:
 -   Each course or event has a Producer
 -   As Producer, you "own" the course. You are responsible for the course as whole, including course design, quality, marketing, etc.
 -   As Producer, you use the Crisp Calendar (a shared Google calendar) to book the classroom and make sure there isn't a conflict.
--   As Producer, you own the financial result of your course (win or loss). Just like with consulting, Crisp retains X% of your profit (see [economic model](economic-model.html)).
 -   Crisp's role is to be the "platform", providing things such as a classroom (we have a classroom at our office in Stockholm), onsite assistance (serving coffee & snacks, etc) and lots of administrative support (invoices, lunch reservation, email communication, registration page, etc). The [office team](office-team.html) organizes all of that.
 -   Crisp will charge the producer a fixed course admin fee (usually around €600-700 per day), an all-inclusive fee that covers the cost of the office and all administrative support.
 
@@ -42,7 +41,6 @@ Here's a high-level summary of what happens with a typical course:
 8.  This is also the day when the office team sends invoices to participants. They will also follow up on payment.
 9.  At the end of the course, he asks people to fill in a course feedback sheet. He notes some improvement ideas, calculates the Net Promoter Score, and adds a row to our shared Course Log (see Quality below).
 10. The office team sends an email to all course participants with a link to course materials and such. They also add the course participants to our mailing list for future event notifications (they can of course opt out at any time)
-11. Joe figures out the course profit and sends an invoice to Crisp (minus the [Crisp tax](economic-model.html), just like with any consulting).
 
 Quality and customer feedback
 -----------------------------

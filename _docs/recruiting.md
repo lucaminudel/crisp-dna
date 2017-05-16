@@ -59,7 +59,7 @@ Again, we are in no hurry to grow. An awesome person is worth waiting for.
 What kind of people don't fit at Crisp?
 ---------------------------------------
 
-People who want stability don't fit at Crisp. You won't have stable working hours and a fixed desk. You won't even get a fixed salary - in fact, it's the other way around - you pay a fee (but keep most of what you earn). See the [economic model](economic-model.html). So when you don't have a client, you bleed money every month! On the other hand, when you do have a client, you earn more than what any company would pay you in salary. So it's up to you to buffer cash and manage risk.
+People who want stability don't fit at Crisp. You won't have stable working hours and a fixed desk. You won't even get a fixed salary - in fact, it's the other way around. So when you don't have a client, you bleed money every month! On the other hand, when you do have a client, you earn more than what any company would pay you in salary. So it's up to you to buffer cash and manage risk.
 
 This kind of model obviously doesn't fit everyone.
 
