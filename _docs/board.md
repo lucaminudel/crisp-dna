@@ -1,6 +1,6 @@
 ---
 title: Board of directors
-prev_section: office-team.html
+prev_section: dashboard.html
 next_section: our-business.html
 ---
 
@@ -14,7 +14,7 @@ At Crisp, this works a little differently. We hold a yearly election of the boar
 What does the board do?
 -----------------------
 
-The board have monthly board meetings. The most important responsibilities are to make sure the financial aspect of Crisp is OK and that the Crispers and the [office team](office-team.html) are happy. The meetings are open for any Crispers to attend if they wish.
+The board have monthly board meetings. The most important responsibilities are to make sure the financial aspect of Crisp is OK and that the Crispersare happy. The meetings are open for any Crispers to attend if they wish.
 
 If there is any Crisper with a low score on [Happiness Index](happiness-index.html), a board members takes it upon themselves to call that person and to try and find out what can be done to make the Crisper happier.
 

@@ -50,7 +50,7 @@ Monetary incentives are often pitched as way to motivate people to work smart an
 Is the business developer an employee?
 --------------------------------------
 
-No, she is a contractor. We let people choose which model they want. Our default is to minimize the number of Crisp employees (because it causes more admin overhead), so almost everyone at Crisp is strictly speaking a subcontractor rather than an employee. But the [office team](office-team.html) wanted a more traditional employee-employer setup, which is fine.
+No, she is a contractor. We let people choose which model they want. Our default is to minimize the number of Crisp employees (because it causes more admin overhead), so almost everyone at Crisp is strictly speaking a subcontractor rather than an employee. 
 
 What power does the business developer have?
 --------------------------------------------

@@ -31,7 +31,7 @@ How the protocol works
 
 A bun is born when someone asks you for something and you decide that "hey, this is a bun". Typically through email, but sometimes a phone call or a conference mingle.
 
-**A bun always has an owner** - the person who received the bun. Or more specifically, the person responsible for the communication channel through which the bun appeared. For example, you are of course responsible for any emails sent directly to you, while the [office team](office-team.html) is responsible for requests to info@crisp.se, etc.
+**A bun always has an owner** - the person who received the bun. Or more specifically, the person responsible for the communication channel through which the bun appeared. For example, you are of course responsible for any emails sent directly to you, while everyone is responsible for requests to info@crisp.se, etc.
 
 **When you have a bun, you are responsible for taking care of it before it gets too dry!** Preferably within 1 working day, definitely within 2.
 

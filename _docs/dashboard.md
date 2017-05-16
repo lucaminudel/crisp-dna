@@ -1,7 +1,7 @@
 ---
 title: Dashboard
 prev_section: bun-protocol.html
-next_section: office-team.html
+next_section: our-business.html
 ---
 
 Crisp Dashboard
