@@ -1,7 +1,7 @@
 ---
 title: Conflict handling
 prev_section: crisplets.html
-next_section: contracts.html
+next_section: building-competence.html
 ---
 
 Conflict handling

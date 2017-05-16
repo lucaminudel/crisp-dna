@@ -1,6 +1,6 @@
 ---
 title: Building competence
-prev_section: contracts.html
+prev_section: conflict-handling.html
 next_section: courses-and-event-production.html
 ---
 

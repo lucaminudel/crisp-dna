@@ -66,7 +66,6 @@ Supporting practices
 -   [Hack summit](hack-summit.html) - how we geek out together
 -   [Crisplets](crisplets.html) - how do bottom-up initiatives get funded?
 -   [Conflict handling](conflict-handling.html) - How do we make sure conflicts are constructive rather than destructive?
--   [Contracts](contracts.html) - our internal contracts for Crisp membership, ownership, etc.
 -   [Building competence](building-competence.html) - how we learn from each other and improve
 -   [Courses and event production](courses-and-event-production.html) - how do courses and events get produced?
 -   [Brand building](brand-building.html) - how do we build the brand, both Crisp and personal brands?

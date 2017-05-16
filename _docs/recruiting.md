@@ -102,7 +102,7 @@ Bottom line: As long as even one single Crisper is against hiring a candidate, w
 How does on-boarding work?
 --------------------------
 
-Welcome! You'll need to sign our [team contract](team-contract-en.html), and create your own personal company (if you don't already have one). Formally you'll be employed by your company, not Crisp. We'll help you get started.
+Welcome! You'll need to create your own personal company (if you don't already have one). Formally you'll be employed by your company, not Crisp. We'll help you get started.
 
 Congrats, you are now your own manager! Be nice.
 
