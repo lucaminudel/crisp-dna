@@ -1,11 +1,11 @@
 - title: Driving principles
-  docs:
+
   - what-is-crisp.html
   - how-crisp-works.html
   - why-this-works.html
 
 - title: Core structure and practices
-  docs:
+
   - happiness-index.html
   - decisions.html
   - recruiting.html
@@ -18,7 +18,7 @@
   - unconference.html
 
 - title: Supporting practices
-  docs:
+
   - email-conventions.html
   - hand-signals.html
   - industries-that-we-avoid.html
@@ -30,5 +30,5 @@
   - brand-building.html
 
 - title: Meta
-  docs:
+
   - how-to-copy.html
