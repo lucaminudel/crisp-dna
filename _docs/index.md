@@ -6,7 +6,7 @@ next_section: what-is-crisp.html
 What is this?
 =============
 
-This site is a stipped down version of the [open-source](http://en.wikipedia.org/wiki/Open_source) site describing how Crisp works and why. The content related to the shared company as fiscal and legal entity, and the content related to the shared office, has been removed.
+This site is a stipped down version of the [open-source](http://en.wikipedia.org/wiki/Open_source) site describing how Crisp works and why. The content related to the shared company as fiscal and legal entity, the ownership model, and the content related to the shared office, has been removed.
 
 [Crisp](https://www.crisp.se) is a consulting company based in Stockholm, Sweden. But we aren't a very typical consulting company. For example:
 
