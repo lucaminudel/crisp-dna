@@ -23,7 +23,7 @@ Survey questions
 The 3 main questions in the survey are:
 
 -   **How happy are you with being at Crisp**? This is the main overarching happiness index.
--   **How happy are you with your tasks in Crisp**? This means internal work such as board meetings, conference facilitation, or creating this Crisp DNA site. 
+-   **How happy are you with your tasks in Crisp**? This means internal work such as conference facilitation, or creating this Crisp DNA site. 
 -   **How happy are you with your current client, or your bench situation?** We measure this separately, because sometimes a person could be really happy with Crisp, but sad about the current client. Or vice versa. For people who are on the bench (= no client at the moment), this can express how they feel about that (sometimes people WANT to be on the bench).
 
 The scale is:
@@ -36,7 +36,7 @@ The scale is:
 
 > NOTE: If you copy this survey, remember that you can of course make it anonymous. We chose to make it non-anonymous because we have a pretty high-trust culture and people are pretty uninhibited about expressing their thoughts and opinions.
 
-We also have a "last updated" column where people enter the date as they update their numbers. When many entries start looking old (as in &gt; 2 months) then we'll usually start nagging each other to update it. Especially a few days before a conference or board meeting, since we use the happiness data to generate insights and trigger actions.
+We also have a "last updated" column where people enter the date as they update their numbers. When many entries start looking old (as in &gt; 2 months) then we'll usually start nagging each other to update it. Especially a few days before a conference, since we use the happiness data to generate insights and trigger actions.
 
 We have a few additional text columns as well, to gather further info. They are all optional.
 
@@ -53,7 +53,7 @@ It's very interesting to read what people write!
 How we use the happiness data
 -----------------------------
 
-The happiness index is used as key artifact during [board meetings](board.html), and we also print it out and bring to our [bi-annual unconference](unconference.html).
+We print it out and bring to our [bi-annual unconference](unconference.html).
 
 Whenever the average changes significantly, we talk about why, and what we can do to make everybody happier. If we see a 1 or 2 on any row, that acts as an effective call for help. People go out of their way to find out how they can help that person, which often results in some kind of process improvement in the company.
 

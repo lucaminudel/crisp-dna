@@ -1,6 +1,6 @@
 ---
 title: Our business
-prev_section: board.html
+prev_section: dashboard.html
 next_section: visions.html
 ---
 

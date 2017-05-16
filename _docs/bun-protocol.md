@@ -53,7 +53,7 @@ Summary of the rules
 -   **You can't push a bun onto someone else, they have to pull**. The bun is yours until someone else explicitly takes it (for example by saying "I'll take the bun"). You can of course recommend (or even try to convince) someone else to take it from you. This goes both ways - if someone offers you a bun, you don't have to respond if you aren't interested.
 -   When in doubt:
     -   Broadcast an email to everybody who might be interested or involved in this bun (write BULLE in the subject, as per our [email conventions](email-conventions.html)).
-    -   or send the bun to "upwards" or to a central person such the board or our business developer. For example if the bun seems to be strategic and might lead to a big dinner.
+    -   or send the bun to "upwards" or to a central person such our business developer. For example if the bun seems to be strategic and might lead to a big dinner.
 -   **When broadcasting to find interested bun-takers, give your colleagues one day** to indicate interest in the bun. Don't just let the first one that answers have the bun. There might be more interested. Letting the first one that answers having the bun leads to race conditions and might cause tension between colleagues.
 
 We don't always succeed in following these rules, especially the 1-2 day age limit. But we really try our best, and we're at least aware of when we fail.
@@ -95,7 +95,7 @@ The [conflict handling process](conflict-handling.html) should help solve the ed
 
 ### What if it is a business-critical request? Shouldn't some central authority handle it?
 
-The closest thing we have to a central authority is the [board](board.html), and our business developer. If one of them received the request then, well, they already have it.
+The closest thing we have to a central authority is our business developer. If he/she received the request then, well, he/dhe already have it.
 
 What if you received the request? Well, do you think it is business critical and should be handled by the business developer? In that case get in touch and ask her to take it from you. If you don't know what to do, broadcast it to all Crispers (or even external partners that have bought into this protocol) and ask who wants to take it.
 

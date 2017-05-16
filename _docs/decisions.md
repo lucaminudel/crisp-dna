@@ -32,8 +32,6 @@ Instead, we follow these principles/guidelines:
 -   **Important decisions should be documented in our [decision log](dashboard.html) and emailed to everyone**
 -   Some decisions lead to funded “projects”, like our new website. The people involved in something like that form a Crisplet. To get funding, there needs to be two “pullers” throughout the whole project. In practice, we seldom have big projects and rarely need to use this model.
 
-**Example:** If the board is considering to raise the team fee, the board drives that question, and therefore gets to pick the decision process.
-
 **Example:** If I want Crisp to collaborate with company X, then I’m the one driving that question and I pick the decision process.
 
 > **Meta:** So how did we decide on this decision-making process?
@@ -62,8 +60,7 @@ Some things to consider when choosing a decisions process:
 -   **Is the decision reversible?** Most decisions are. What is the consequence of making the “wrong” decision, and who is affected by that?
 -   **How easy or hard is the decision?** How easy is it to reach consensus with all people affected?
 -   **How urgent is the decision?** What is the consequence of delaying the decision, or not making a decision at all?
--   **Who are you?** The decision process may vary depending on your perspective – consultant, board member, office admin, etc. May also depend on how long you’ve been at Crisp (if you are new and unsure you might need to seek more anchoring from people).
--   **Is the outcome affected by laws?** The board of directors in a Swedish company is bound by Swedish laws, so some decisions must be aligned with the board of directors.
+-   **Who are you?** The decision process may vary depending on your perspective – consultant, etc. May also depend on how long you’ve been at Crisp (if you are new and unsure you might need to seek more anchoring from people).
 
 Sample decisions:
 
@@ -84,7 +81,7 @@ Here are some options:
 -   **Take a chance!** “Better to ask for forgiveness than permission”. Most decisions are reversible, so you don’t really need to be afraid of making the “wrong” decision or using the “wrong” decision process. Just accept feedback and learn.
 -   **Talk to a Crisp colleague**, for example someone who has been around longer and can give examples of what has worked in the past.
 -   **Check if someone else can drive** the question for you (or with you). Preferably someone who is strongly engaged in the question. It’s nice to pair-drive a decision, so you can always ask on the team mailing list to find a co-driver.
--   **Escalate the decision** to the [board of directors](board.html). For example “hey board, I want to change our recruiting process, how would we make a decision like that?”. We try to minimize the number of decisions that have to be made by the board, but they can give useful input about who needs to be involved.
+
 
 Our [unconferences](unconference.html) and similar gatherings are a great place to discuss a decision process – and in many cases make the actual decision as well, since everyone is there :)
 
