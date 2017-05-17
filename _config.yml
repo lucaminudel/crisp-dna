@@ -7,4 +7,5 @@ defaults:
 collections:
   docs:
     output: true
-company_name: "Stripped-Down Crisp"
+company_name: "lucaminudel"
+baseurl: "/stripped-down-crisp-dna"
