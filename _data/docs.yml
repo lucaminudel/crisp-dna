@@ -1,6 +1,6 @@
 - title: Driving principles
   docs:
-  - what-is-crisp.html
+  - [What is Crisp?](what-is-crisp.html)
   - how-crisp-works.html
   - why-this-works.html
 
