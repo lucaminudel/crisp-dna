@@ -5,7 +5,7 @@ next_section: how-to-copy.html
 ---
 
 Brand building
-==============
+============== 
 
 OK, none of us are experts at brand building. But we've nevertheless ended up with a strong brand within [our business](our-business.html), so here are some thoughts on how that happened.
 
