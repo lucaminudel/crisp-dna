@@ -1,5 +1,5 @@
 ---
-title: Recruitment
+title: New Members
 prev_section: decisions.html
 next_section: communication.html
 ---
