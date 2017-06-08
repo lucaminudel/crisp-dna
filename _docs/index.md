@@ -11,7 +11,7 @@ This site is a stipped down version of the [open-source](http://en.wikipedia.org
 For a super-fast overview start with:
 -   [Our purpose](what-is-crisp.html) - the purpose of the group
 -   [New members](recruiting.html) - how do new people get in?
--   [Brand building](brand-building.html) - how do we build the brand, that all members benefit from?
+-   [How this works](why-this-works.html) - how this model has served us so well
 -   [Sales](sales.html) - how do we actually sell consultants?
 -   [Bun protocol](bun-protocol.html) - how do we handle customer enquiries and route to the right consultant?
 
@@ -48,7 +48,7 @@ Driving principles
 
 -   [Our purpose](what-is-crisp.html) - the purpose of the company
 -   [How Crisp works](how-crisp-works.html) - summary of our model, and some driving principles.
--   [Why this works](why-this-works.html) - why this model has served us so well
+-   [How this works](why-this-works.html) - how this model has served us so well
 
 Core structure and practices
 ----------------------------
