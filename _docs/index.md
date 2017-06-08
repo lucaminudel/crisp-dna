@@ -16,6 +16,9 @@ For a super-fast overview start with:
 -   [Bun protocol](bun-protocol.html) - how do we handle customer enquiries and route to the right consultant?
 
 
+About the real Crisp
+====================
+
 [Crisp](https://www.crisp.se) is a consulting company based in Stockholm, Sweden. But we aren't a very typical consulting company. For example:
 
 -   None of the 35+ consultants are actually employed by {{ site.company_name }} (although we do have a few employed office staff).
