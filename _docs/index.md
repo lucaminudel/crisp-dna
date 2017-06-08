@@ -8,6 +8,17 @@ What is this?
 
 This site is a stipped down version of the [open-source](http://en.wikipedia.org/wiki/Open_source) site describing how Crisp works and why. The content related to the shared company as fiscal and legal entity, the ownership model, and the content related to the shared office, has been removed. The original site is [here](http://dna.crisp.se/).
 
+For a super fast overview start with:
+-   [Our purpose](what-is-crisp.html) - the purpose of the company
+-   [New members](recruiting.html) - how do new people get in?
+-   [Bun protocol](bun-protocol.html) - how do we handle customer enquiries and route to the right consultant?
+-   [Our business](our-business.html) - what type of work we do
+-   [Visions](visions.html) - How do you get a bunch of autonomous consultants to agree on a vision? Answer: have several :o)
+-   [Sales](sales.html) - how do we actually sell consultants?
+-   [Brand building](brand-building.html) - how do we build the brand, both Crisp and personal brands?
+
+
+
 [Crisp](https://www.crisp.se) is a consulting company based in Stockholm, Sweden. But we aren't a very typical consulting company. For example:
 
 -   None of the 35+ consultants are actually employed by {{ site.company_name }} (although we do have a few employed office staff).
@@ -35,7 +46,7 @@ Driving principles
 
 (these principles drive almost everything at Crisp)
 
--   [What is Crisp](what-is-crisp.html) - the purpose of the company
+-   [Our purpose](what-is-crisp.html) - the purpose of the company
 -   [How Crisp works](how-crisp-works.html) - summary of our model, and some driving principles.
 -   [Why this works](why-this-works.html) - why this model has served us so well
 
@@ -46,7 +57,7 @@ Core structure and practices
 
 -   [Happiness index](happiness-index.html) - how do we know if we are succeeding?
 -   [How we make decisions](decisions.html) - how do decisions get made when there is no manager?
--   [Recruiting](recruiting.html) - how do new people get in?
+-   [New members](recruiting.html) - how do new people get in?
 -   [Communication](communication.html) - how do we collaborate, sync, and improve?
 -   [Bun protocol](bun-protocol.html) - how do we handle customer enquiries and route to the right consultant?
 -   [Dashboard](dashboard.html) - how do we see the big picture?
