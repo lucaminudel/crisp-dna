@@ -1,5 +1,5 @@
 ---
-title: "What is Crisp?"
+title: "Our pourpose"
 prev_section: index.html
 next_section: how-crisp-works.html
 ---
