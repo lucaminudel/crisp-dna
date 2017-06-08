@@ -8,15 +8,12 @@ What is this?
 
 This site is a stipped down version of the [open-source](http://en.wikipedia.org/wiki/Open_source) site describing how Crisp works and why. The content related to the shared company as fiscal and legal entity, the ownership model, and the content related to the shared office, has been removed. The original site is [here](http://dna.crisp.se/).
 
-For a super fast overview start with:
--   [Our purpose](what-is-crisp.html) - the purpose of the company
+For a super-fast overview start with:
+-   [Our purpose](what-is-crisp.html) - the purpose of the group
 -   [New members](recruiting.html) - how do new people get in?
--   [Bun protocol](bun-protocol.html) - how do we handle customer enquiries and route to the right consultant?
--   [Our business](our-business.html) - what type of work we do
--   [Visions](visions.html) - How do you get a bunch of autonomous consultants to agree on a vision? Answer: have several :o)
+-   [Brand building](brand-building.html) - how do we build the brand, that all members benefit from?
 -   [Sales](sales.html) - how do we actually sell consultants?
--   [Brand building](brand-building.html) - how do we build the brand, both Crisp and personal brands?
-
+-   [Bun protocol](bun-protocol.html) - how do we handle customer enquiries and route to the right consultant?
 
 
 [Crisp](https://www.crisp.se) is a consulting company based in Stockholm, Sweden. But we aren't a very typical consulting company. For example:
