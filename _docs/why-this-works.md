@@ -1,11 +1,11 @@
 ---
-title: Why this works well for us
+title: How this works well for us
 
 prev_section: how-crisp-works.html
 next_section: happiness-index.html
 ---
 
-Why this model works (for us)
+How this model works (for us)
 =============================
 
 After years of experimenting, we've evolved to a model that works really well for us! Our staff turnover is almost zero, the [happiness index](happiness-index.html) is rarely below 4, revenue per consultant is about twice as high as a typical consulting company, and our clients give us amazingly good reviews that we are too humble to display here :o)
