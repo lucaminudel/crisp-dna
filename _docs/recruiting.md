@@ -4,7 +4,7 @@ prev_section: decisions.html
 next_section: communication.html
 ---
 
-Recruitment - how we grow
+New Members - how we grow
 =========================
 
 We are in no hurry to grow
